@@ -12,7 +12,7 @@ somar(a, b)
 \item{b}{Outro número}
 }
 \description{
-Esta funçõ serva para somar dois números
+Esta função serva para somar dois números
 }
 \examples{
 somar(3,4)

@@ -1,6 +1,6 @@
 #' Função para somar
 #'
-#' Esta funçõ serva para somar dois números
+#' Esta função serva para somar dois números
 #'
 #' @param a Um número
 #' @param b Outro número

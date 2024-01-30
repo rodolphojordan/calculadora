@@ -12,7 +12,7 @@ subtrair(a, b)
 \item{b}{Outro número}
 }
 \description{
-Esta funçõ serva para subtrair dois números
+Esta função serva para subtrair dois números
 }
 \examples{
 subtrair(3,4)
